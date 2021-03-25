@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-Mar-2019, 12:20:51
+    Author     : Mimik
+*/
+
+@media only screen and (max-width:1024px) and (min-width:481px){
+    #pocetak,#reganim ,#prijanim, #obranim, #popanim, #medanim{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    .nav_a{
+        font-size: 20px;
+    }    
+}
